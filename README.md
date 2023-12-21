@@ -55,3 +55,7 @@ int main() {
 | LinkedIn  | [Ссылка](example-linkedin-profile) | 3 часа |
 | WhatsApp  | [Ссылка](example-whatsapp-link) | 30 минут |
 | Telegram  | [Ссылка](example-telegram-link) | 5 минут |
+
+# Username.sh file
+The script `username.sh` outputs my name in the format 'FirstName LastName'.
+
