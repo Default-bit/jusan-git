@@ -13,7 +13,7 @@ stepik.org.
 
 ## Запуск
 
-bash ./script.sh
+```bash ./script.sh```
 
 
 ## Портирование
@@ -29,6 +29,8 @@ class Main {
   }
 }
 
+На С++:
+```
 #include <iostream>
 using namespace std;
 
@@ -36,13 +38,19 @@ int main() {
   cout << 777 << endl;
   return 0;
 }
+```
 
-Попробуйте реализовать на Python, Go и JavaScript.
+> :bulb: Попробуйте реализовать на Python, Go и JavaScript.
 
-Контакты разработчика
+## Контакты разработчика
 Ниже найдете список ссылок для связи с автором.
 
 Почта: Ссылка - ответ за 24 часа
 LinkedIn: Ссылка - ответ за 3 часа
 WhatsApp: Ссылка - ответ за 30 минут
-Telegram: Ссылка - ответ за 5 минут
+Tel| Платформа | Ссылка | Отвечу за |
+|-----------|--------|-----------|
+| Почта     | [Ссылка](example-email@example.com) | 24 часа |
+| LinkedIn  | [Ссылка](example-linkedin-profile) | 3 часа |
+| WhatsApp  | [Ссылка](example-whatsapp-link) | 30 минут |
+| Telegram  | [Ссылка](example-telegram-link) | 5 минут |
