@@ -13,7 +13,9 @@ stepik.org.
 
 ## Запуск
 
-```bash ./script.sh```
+```
+bash ./script.sh
+```
 
 
 ## Портирование
@@ -28,7 +30,7 @@ class Main {
     System.out.println("777");
   }
 }
-
+```
 На С++:
 ```
 #include <iostream>
